@@ -1,0 +1,1 @@
+This logo is adapted from [logo #35](http://logodust.com/files/free/logo35.zip) from http://logodust.com (an open-source collection of logos free for personal and commercial use without attribution). I figured I'd attibrute anyway. All I did was change the color and run the SVG through SVGO.
